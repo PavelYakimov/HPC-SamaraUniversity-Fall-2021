@@ -14,7 +14,7 @@
 Здесь будут представлены слайды для презентаций, которые демонстрировались во время лекций.
 
 Расписание лекций (всегда в 13:30):
-- 17.09.2021: [Презентация](https://github.com/PavelYakimov/HPC-SamaraUniversity-Fall-2021/files/7186648/en_Introduction.pdf), [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6Kic0Q7m5IUl0N-tMHEg?e=aAitt5)
+- Лекция 1. Introduction to CUDA (Part 1): [Презентация](https://github.com/PavelYakimov/HPC-SamaraUniversity-Fall-2021/files/7186648/en_Introduction.pdf), [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6Kic0Q7m5IUl0N-tMHEg?e=aAitt5)
 - 01.10.2021
 - 15.10.2021
 - 29.10.2021

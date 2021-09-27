@@ -39,3 +39,5 @@
 11. [Spectrogram, 2.5 points](https://github.com/PavelYakimov/HPC-SamaraUniversity-Fall-2021/blob/main/spectrogram.pdf)
 12. Compare Intel GPU vs Nvidia GPU (please, refer to the lecturer), 3 points
 13. Custom Task, 1-9 points (depends on the complexity of the provided task)
+
+[Ссылка на запись "инструкции" доступа по ssh](https://1drv.ms/v/s!AvM8VWt8XD6Kic42dl9NF3nUOK1iiA?e=Wv6WGQ)

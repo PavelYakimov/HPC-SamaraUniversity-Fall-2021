@@ -15,7 +15,7 @@
 
 Расписание лекций (всегда в 13:30):
 - Лекция 1. Introduction to CUDA (Part 1): [Презентация](https://github.com/PavelYakimov/HPC-SamaraUniversity-Fall-2021/files/7186648/en_Introduction.pdf), [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6Kic0Q7m5IUl0N-tMHEg?e=aAitt5)
-- 01.10.2021, Лекция 2. Introduction to CUDA (Part 2): [Ссылка на подключение](https://zoom.us/j/8806326199?pwd=eEhaTVFPYTJHeVExakdNaHl0ZFpVQT09), 
+- Лекция 2. Introduction to CUDA (Part 2): [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6Kic8zxiauCTQG-zND0w?e=uadl1C), 
 - 15.10.2021: [Ссылка на подключение](https://zoom.us/j/8806326199?pwd=eEhaTVFPYTJHeVExakdNaHl0ZFpVQT09),
 - 29.10.2021: [Ссылка на подключение](https://zoom.us/j/8806326199?pwd=eEhaTVFPYTJHeVExakdNaHl0ZFpVQT09),
 - 12.11.2021: [Ссылка на подключение](https://zoom.us/j/8806326199?pwd=eEhaTVFPYTJHeVExakdNaHl0ZFpVQT09),

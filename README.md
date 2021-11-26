@@ -18,7 +18,7 @@
 - Лекция 2. Introduction to CUDA (Part 2): [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6Kic8zxiauCTQG-zND0w?e=uadl1C), 
 - 15.10.2021: Лекция не состоится, информация про её замену появится позже
 - 29.10.2021: [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6KidRART5hsicj_ZGdyQ?e=BUPy5D),
-- 12.11.2021: [Ссылка на подключение](https://zoom.us/j/8806326199?pwd=eEhaTVFPYTJHeVExakdNaHl0ZFpVQT09),
+- 12.11.2021: [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6KidYgTHi0CpUWOqSOdA?e=coReZG),
 - 26.11.2021: [Ссылка на подключение](https://zoom.us/j/8806326199?pwd=eEhaTVFPYTJHeVExakdNaHl0ZFpVQT09),
 - 10.12.2021: [Ссылка на подключение](https://zoom.us/j/8806326199?pwd=eEhaTVFPYTJHeVExakdNaHl0ZFpVQT09),
 

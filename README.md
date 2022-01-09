@@ -20,14 +20,14 @@
 - [6. PyCUDA](/slides/6_pycuda-ru.pdf)
 - [7. Profiling](/slides/7_Profiling.pdf)
 
-Расписание лекций (всегда в 13:30):
+Записи лекций:
 - Лекция 1. Introduction to CUDA (Part 1): [Презентация](https://github.com/PavelYakimov/HPC-SamaraUniversity-Fall-2021/files/7186648/en_Introduction.pdf), [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6Kic0Q7m5IUl0N-tMHEg?e=aAitt5)
 - Лекция 2. Introduction to CUDA (Part 2): [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6Kic8zxiauCTQG-zND0w?e=uadl1C), 
-- 15.10.2021: Лекция не состоится, информация про её замену появится позже
-- 29.10.2021: [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6KidRART5hsicj_ZGdyQ?e=BUPy5D),
-- 12.11.2021: [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6KidYgTHi0CpUWOqSOdA?e=coReZG),
-- 26.11.2021: [Ссылка на подключение](https://zoom.us/j/8806326199?pwd=eEhaTVFPYTJHeVExakdNaHl0ZFpVQT09),
-- 10.12.2021: [Ссылка на подключение](https://zoom.us/j/8806326199?pwd=eEhaTVFPYTJHeVExakdNaHl0ZFpVQT09),
+- Лекция 3. CUDA Memory [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6KidRART5hsicj_ZGdyQ?e=BUPy5D),
+- Лекция 4. Thrust. [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6KidYgTHi0CpUWOqSOdA?e=coReZG),
+- Лекция 5. CUDA Math Libraries. [Part 1 (смотреть с 45:00)](https://bbb.ssau.ru/playback/presentation/2.0/playback.html?meetingId=b76cc06c5f576c9314c26c033cc5df63fbd1269f-1601888085737); [Part 2](https://bbb.ssau.ru/playback/presentation/2.0/playback.html?meetingId=b76cc06c5f576c9314c26c033cc5df63fbd1269f-1602659393598)
+- Лекция 6. Multi-GPU [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6Kieswpbv7YNqdCxwLVw?e=aTayPu),
+- Лекция 7, _Optional_. Python + CUDA [Ссылка на запись](https://bbb.ssau.ru/playback/presentation/2.0/playback.html?meetingId=b76cc06c5f576c9314c26c033cc5df63fbd1269f-1606302273155)
 
 # Лабораторные работы
 

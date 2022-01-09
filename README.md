@@ -11,7 +11,14 @@
 
 # Лекции
 
-Здесь будут представлены слайды для презентаций, которые демонстрировались во время лекций.
+Здесь представлены слайды для презентаций, которые демонстрировались во время лекций:
+- [1. Introduction to CUDA](/slides/1_en_Introduction.pdf)
+- [2. CUDA Memory](/slides/2_en_Memory.pdf)
+- [3. CUDA libraries](/slides/3_libraries.pdf)
+- [4. Thrust library](/slides/4_thrust.pdf)
+- [5. Multi-GPU](/slides/5_mpgu_compressed.pdf)
+- [6. PyCUDA](/slides/6_pycuda-ru.pdf)
+- [7. Profiling](/slides/7_Profiling.pdf)
 
 Расписание лекций (всегда в 13:30):
 - Лекция 1. Introduction to CUDA (Part 1): [Презентация](https://github.com/PavelYakimov/HPC-SamaraUniversity-Fall-2021/files/7186648/en_Introduction.pdf), [Ссылка на запись](https://1drv.ms/v/s!AvM8VWt8XD6Kic0Q7m5IUl0N-tMHEg?e=aAitt5)
